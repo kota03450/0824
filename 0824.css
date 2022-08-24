@@ -1,5 +1,19 @@
+.block{
+  display: flex;
+  
+
+}
+
 .test{
   outline: 1px solid #000;
   text-align: center;
   display: flex;
+}
+
+.test2{
+  outline: 1px dashed #000;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 20px;
+
 }
